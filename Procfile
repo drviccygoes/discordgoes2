@@ -1,1 +1,1 @@
-worker: auth.js
+worker: npm start
